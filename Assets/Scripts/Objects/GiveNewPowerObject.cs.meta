@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 43499ebef60bd5b4fa69418832099259
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCollider: {instanceID: 0}
+  - slashObjectSprite: {fileID: -7843154305915039557, guid: ed2dfe53d72c0b14090e4ed76087e9cd, type: 3}
+  - dashObjectSprite: {fileID: 2340352565851092095, guid: ed2dfe53d72c0b14090e4ed76087e9cd, type: 3}
+  - teleportationObjectSprite: {fileID: 7561831688681126094, guid: ed2dfe53d72c0b14090e4ed76087e9cd, type: 3}
+  - doubleEverythingObjectSprite: {fileID: 21300000, guid: e07bea1f9de4d214baaf1ebe9e1e08e1, type: 3}
+  - fireOfDeathObjectSprite: {fileID: -7315636305180199456, guid: ed2dfe53d72c0b14090e4ed76087e9cd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
